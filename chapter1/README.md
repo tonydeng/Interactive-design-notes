@@ -50,4 +50,4 @@ Flip的目标就是尽可能的简单，甩开一切不必要的功能。没有�
 
 简单的特征和个性应该源自你使用的方法、要表现的产品，以及用户执行的任务
 
-![Shaker Chair](../images/shaker-chair.jpeg)和![Panton Chair](../images/panton-chair.jpeg)
+![Shaker Chair](../images/shaker-chair.jpeg) ![Panton Chair](../images/panton-chair.jpeg)
