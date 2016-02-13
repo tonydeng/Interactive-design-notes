@@ -1,3 +1,3 @@
-# Table of content
+# 目录
 
-* [First Chapter](chapter1.md)
+* [话说简单](chapter1.md)
