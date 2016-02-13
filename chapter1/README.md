@@ -48,6 +48,8 @@ Flip的目标就是尽可能的简单，甩开一切不必要的功能。没有�
     简单并不意味着欠缺或低劣，也不意味着不注重装饰或者完全赤裸裸。而是说装饰应该紧密贴近设计本身，任何无关紧要的要素都应该给予以剔除。
             -- Paul Jacques Grillo ( Form, Function and Design)
 
-简单的特征和个性应该源自你使用的方法、要表现的产品，以及用户执行的任务
+简单的特征和个性应该源自你使用的方法、要表现的产品，以及用户执行的任务。
 
 ![Shaker Chair](../images/shaker-chair.jpeg) ![Panton Chair](../images/panton-chair.jpeg)
+
+**这两把椅子都很简单，但是各有各的独一无二的特征。**
