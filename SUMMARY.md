@@ -30,7 +30,7 @@
 * [第3章 简约四策略](chapter3/README.md)
 * [第4章 删除](chapter4/README.md)
 * [第5章 组织](chapter5/README.md)
-* [第6章 隐藏](chapter6/README)
+* [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
 * [第8章 最后的叮嘱](chapter8/README)
 
