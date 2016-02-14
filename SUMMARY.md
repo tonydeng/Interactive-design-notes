@@ -18,5 +18,5 @@
    * [主流用户要什么](chapter2/what-mainstream-users.md)
    * [感情需求](chapter2/emotional-needs.md)
    * [简单意味着控制](chapter2/simple-means-to-control.md)
-   * [正确选择“什么”](chapter2/select-the-what)
+   * [正确选择“什么”](chapter2/select-the-what.md)
 
