@@ -21,5 +21,5 @@
    * [正确选择“什么”](chapter2/select-the-what.md)
    * [描述用户体验](chapter2/describe-the-user-experience.md)
    * [讲故事](chapter2/tell-a-story.md)
-   * [环境、角色、情节](chapter2/environments-characters-and-plot)
+   * [环境、角色、情节](chapter2/environments-characters-and-plot.md)
 
