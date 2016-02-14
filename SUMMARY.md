@@ -28,7 +28,7 @@
    * [明确认识](chapter2/a-clear-understanding-of.md)
    * [分享](chapter2/share.md)
 * [第3章 简约四策略](chapter3/README.md)
-* [第4章 删除](chapter4/README)
+* [第4章 删除](chapter4/README.md)
 * [第5章 组织](chapter5/README)
 * [第6章 隐藏](chapter6/README)
 * [第7章 转移](chapter7/README)
