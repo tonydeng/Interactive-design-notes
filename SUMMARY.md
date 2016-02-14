@@ -26,5 +26,5 @@
    * [简便的方式](chapter2/easy-way.md)
    * [洞察力](chapter2/insight.md)
    * [明确认识](chapter2/a-clear-understanding-of.md)
-   * [分享](chapter2/share)
+   * [分享](chapter2/share.md)
 
