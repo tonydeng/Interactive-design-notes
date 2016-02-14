@@ -11,5 +11,5 @@
 * [第2章 明确认识](chapter2/README.md)
    * [描述要点的两种方式](chapter2/describe-two-ways.md)
    * [走出办公室](chapter2/out-of-officemd.md)
-   * [观察什么]()
+   * [观察什么](chapter2/observe-what)
 
