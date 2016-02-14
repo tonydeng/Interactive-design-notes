@@ -17,5 +17,5 @@
    * [为主流用户而设计](chapter2/designed-for-mainstream-users.md)
    * [主流用户要什么](chapter2/what-mainstream-users.md)
    * [感情需求](chapter2/emotional-needs.md)
-   * [简单意味着控制](chapter2/simple-means-to-control)
+   * [简单意味着控制](chapter2/simple-means-to-control.md)
 
