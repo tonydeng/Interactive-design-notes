@@ -16,4 +16,4 @@
    * [为什么应该忽略专家型用户](chapter2/why-you-should-ignore-the-expert-user.md)
    * [为主流用户而设计](chapter2/designed-for-mainstream-users.md)
    * [主流用户要什么](chapter2/what-mainstream-users.md)
-
+   * [感情需求](chapter2/emotional-needs)
