@@ -25,4 +25,5 @@
    * [极端的可用性](chapter2/extreme-availability.md)
    * [简便的方式](chapter2/easy-way.md)
    * [洞察力](chapter2/insight.md)
+   * [明确认识](chapter2/a-clear-understanding-of)
 
