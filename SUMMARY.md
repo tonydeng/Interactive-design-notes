@@ -32,5 +32,5 @@
 * [第5章 组织](chapter5/README.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
-* [第8章 最后的叮嘱](chapter8/README)
+* [第8章 最后的叮嘱](chapter8/README.md)
 
