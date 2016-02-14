@@ -9,4 +9,5 @@
    * [貌似简单](chapter1/seemingly-simple.md)
    * [了解自己](chapter1/know-yourself.md)
 * [第2章 明确认识](chapter2/README.md)
+   * [描述要点的两种方式](chapter2/describe-two-ways)
 
