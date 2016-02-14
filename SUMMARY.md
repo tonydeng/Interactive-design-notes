@@ -24,4 +24,5 @@
    * [环境、角色、情节](chapter2/environments-characters-and-plot.md)
    * [极端的可用性](chapter2/extreme-availability.md)
    * [简便的方式](chapter2/easy-way.md)
-   * [洞察力](chapter2/insight)
+   * [洞察力](chapter2/insight.md)
+
