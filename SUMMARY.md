@@ -13,5 +13,5 @@
    * [走出办公室](chapter2/out-of-officemd.md)
    * [观察什么](chapter2/observe-what.md)
    * [三种用户](chapter2/three-usermd.md)
-   * [为什么应该忽略专家型用户](chapter2/why-you-should-ignore-the-expert-user.md)
+   * [为什么应该忽略专家型用户](chapter2/why-you-should-ignore-the-expert-usermd.md)
 
