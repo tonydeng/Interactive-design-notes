@@ -6,5 +6,6 @@
    * [简单的力量](chapter1/simple-force.md)
    * [不是那种简单法](chapter1/not-that-simple-method.md)
    * [特征](chapter1/features.md)
+   * [貌似简单](chapter1/seemingly-simple)
 * [第2章 明确认识](chapter2/README.md)
 
