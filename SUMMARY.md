@@ -30,6 +30,7 @@
 * [第3章 简约四策略](chapter3/README.md)
    * [四个策略](chapter3/four-policy.md)
 * [第4章 删除](chapter4/README.md)
+   * [避免错删](chapter4/avoid-error-delete)
 * [第5章 组织](chapter5/README.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
