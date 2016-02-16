@@ -32,7 +32,7 @@
 * [第4章 删除](chapter4/README.md)
    * [避免错删](chapter4/avoid-error-delete.md)
    * [关注核心](chapter4/regard-core.md)
-   * [砍掉残缺功能](chapter4/incomplete-cut-off-function)
+   * [砍掉残缺功能](chapter4/incomplete-cut-off-function.md)
 * [第5章 组织](chapter5/README.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
