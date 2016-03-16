@@ -34,7 +34,7 @@
    * [关注核心](chapter4/regard-core.md)
    * [砍掉残缺功能](chapter4/incomplete-cut-off-function.md)
    * [假如用户......](chapter4/if-the-user.md)
-   * [但我们的用户想要](chapter4/but-our-users-want-to)
+   * [但我们的用户想要](chapter4/but-our-users-want-to.md)
 * [第5章 组织](chapter5/README.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
