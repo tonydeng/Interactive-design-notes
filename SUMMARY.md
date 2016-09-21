@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [第1章 话说简单](chapter1/README.md)
+
   * [关于简单的故事](chapter1/a-simple-story.md)
   * [简单的力量](chapter1/simple-force.md)
   * [不是那种简单法](chapter1/not-that-simple-method.md)
@@ -10,6 +11,7 @@
   * [了解自己](chapter1/know-yourself.md)
 
 * [第2章 明确认识](chapter2/README.md)
+
   * [描述要点的两种方式](chapter2/describe-two-ways.md)
   * [走出办公室](chapter2/out-of-office.md)
   * [观察什么](chapter2/observe-what.md)
@@ -30,18 +32,21 @@
   * [分享](chapter2/share.md)
 
 * [第3章 简约四策略](chapter3/README.md)
+
   * [四个策略](chapter3/four-policy.md)
 
 * [第4章 删除](chapter4/README.md)
+
   * [避免错删](chapter4/avoid-error-delete.md)
   * [关注核心](chapter4/regard-core.md)
   * [砍掉残缺功能](chapter4/incomplete-cut-off-function.md)
   * [假如用户......](chapter4/if-the-user.md)
   * [但我们的用户想要](chapter4/but-our-users-want-to.md)
   * [方案，不是流程](chapter4/program-not-a-process.md)
-  *  \[如果功能不是必要的\]\(chapter4\/if-the-function-is-not-necessary.md\)
+  * 如果功能不是必要的
 
 * [第5章 组织](chapter5/README.md)
+
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
 * [第8章 最后的叮嘱](chapter8/README.md)
