@@ -40,10 +40,9 @@
   * [但我们的用户想要](chapter4/but-our-users-want-to.md)
   * [方案，不是流程](chapter4/program-not-a-process.md)
   * [如果功能不是必要的](chapter4/if-the-function-is-not-necessary.md)
-  * [真有影响吗](/chapter4/)
+  * [真有影响吗](/chapter4/really-have-an-impact-on-it.md)
 
 * [第5章 组织](chapter5/README.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
 * [第8章 最后的叮嘱](chapter8/README.md)
-
