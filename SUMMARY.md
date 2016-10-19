@@ -46,6 +46,8 @@
   * [决策](chapter4/decision-making.md)
   * [分心](chapter4/distraction.md)
   * [聪明的默认值](chapter4/smart-defaults.md)
+  * [选项和首选项](chapter4/options-and-preferences.md)
+  * [如果一个选项还嫌多](chapter4/if-an-option-is-too-many.md)
 * [第5章 组织](chapter5/README.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
