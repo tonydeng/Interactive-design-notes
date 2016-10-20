@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [第1章 话说简单](chapter1/README.md)
   * [关于简单的故事](chapter1/a-simple-story.md)
   * [简单的力量](chapter1/simple-force.md)
