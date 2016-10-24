@@ -55,6 +55,7 @@
   * [删减过多](chapter4/cut-too-much.md)
   * [你能做到](chapter4/you-can-make-it.md)
   * [焦点](chapter4/focus.md)
+
 * [第5章 组织](chapter5/README.md)
   * [分块](chapter5/block.md)
   * [围绕行为进行组织](chapter5/organized-around-a-behavior.md)
@@ -64,6 +65,7 @@
   * [时间和空间](chapter5/time-and-space.md)
   * [网格](chapter5/grid.md)
   * [大小和位置](chapter5/size-and-location.md)
+  * [分层](chapter5/layered.md)
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
 * [第8章 最后的叮嘱](chapter8/README.md)
