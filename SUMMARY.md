@@ -66,6 +66,9 @@
   * [网格](chapter5/grid.md)
   * [大小和位置](chapter5/size-and-location.md)
   * [分层](chapter5/layered.md)
+  * [色标](chapter5/colour-code.md)
+  * [期望路径](chapter5/expected-path.md)
+
 * [第6章 隐藏](chapter6/README.md)
 * [第7章 转移](chapter7/README.md)
 * [第8章 最后的叮嘱](chapter8/README.md)
