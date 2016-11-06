@@ -70,5 +70,15 @@
   * [期望路径](chapter5/expected-path.md)
 
 * [第6章 隐藏](chapter6/README.md)
+  * [不常用但不能少](chapter6/not-commonly-used-but-not-less.md)
+  * [自定义](chapter6/custom.md)
+  * [自动定制](chapter6/automatic-customization.md)
+  * [渐进展示](chapter6/progressive-display.md)
+  * [阶段展示](chapter6/stage-display.md)
+  * [适时出现](chapter6/be-in-time.md)
+  * [提示与线索](chapter6/hints-and-clues.md)
+  * [让功能容易找到](chapter6/make-the-feature-easy-to-find.md)
+  * [隐藏的要求](chapter6/hidden-requirements.md)
+
 * [第7章 转移](chapter7/README.md)
 * [第8章 最后的叮嘱](chapter8/README.md)
