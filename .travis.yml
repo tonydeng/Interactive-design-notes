@@ -8,18 +8,17 @@ install:
 - gitbook install
 script:
 - gitbook build
-
 branches:
   only:
-    - master
-
+  - master
 deploy:
   provider: pages
   skip_cleanup: true
-  
   local_dir: _book
   fqdn: tonydeng.github.io
   name: Travis CI
   email: travis@travis-ci.org
   on:
     branch: master
+  github-token:
+    secure: D1Ig9SdSl3YzklmBWOYQgnLcd7KoSNQKTuo674L9TkHdjDOufEcBTdEpcqhroYmNq+tCzxuy+0nSWO3/UHkFYV8gN9FZETHEus/hNC0WL11mj4pf69G/TxhSrWcTLeOU0pFqmw4mp9TWjTBvb+5LgM+toN+0J51mC+JbOQigmplUdIqn0d6m708bxnGpHpTffO1o1dILKzRr7o/icob1fft4XtFM2NQ3wHj6mnJCPex853980J/NsIoJ1H0lqeR0Bw7/mwG4taJbrdsJeNlx3q6OIEFLVKXB/F3gu2LgKOKz/IbLOyxoOU+txdDJ2fYWWtyy7djBXK92SzDYwihYppIiw0ym6V+IGU4gNB7DvuOA/YsewAZwOqh3m1VGaz+mx4DaBK95NPkoRbKSHvZDsJVrWWyCqh0cBPASBPW6Nf3xRMbOXwBGntelDNAEVYR9340TUL14Cfscb7WSfTVwiFTJZgDwhokHDiA8glbQ8a7ZTk4tpNzn1aByZjLl7dKg9eYLgeoMC0C+BS89jOxt1RH2kgMNwbzm0QhRYNfQuldBsOHZP3McE1kvNt9YHoxuqxEI6cLXsqi/eioE8p+ioUk/zFtZ3eBCcZ/kjKk7LNJmE6/r3vUPN08p7brYuClM+/rTUBQmWDA0FzZhMCySUX3YVmPq04l/S+jtVUhtRzo=
